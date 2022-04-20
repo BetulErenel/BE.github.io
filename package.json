@@ -1,0 +1,23 @@
+{
+  "name": "betulerenel.github.io",
+  "version": "1.0.0",
+  "description": "Hello! I am Betul Erenel Now I am a student in MIT xPRO Professional Certificate in Coding: Full Stack Development Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetulErenel/betulerenel.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BetulErenel/betulerenel.github.io/issues"
+  },
+  "homepage": "https://github.com/BetulErenel/betulerenel.github.io#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
